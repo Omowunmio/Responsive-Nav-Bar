@@ -10,4 +10,3 @@ closeIcon.addEventListener("click", function(){
     mobileMenu.style.display = "none"
 })
 
-closeIcon.addEventListener("")
